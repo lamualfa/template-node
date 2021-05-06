@@ -5,7 +5,7 @@
   },
   "engineStrict": true,
   "scripts": {
-    "prepare": "husky install",
+    "postinstall": "husky install",
     "precommit": "pnpm run format && pnpm run check",
     "prepush": "pnpm run test",
     "dev": "ts-node-dev src/index.ts",
