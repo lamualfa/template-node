@@ -17,12 +17,6 @@
   "files": [
     "dist"
   ],
-  "husky": {
-    "hooks": {
-      "pre-commit": "pnpm run precommit",
-      "pre-push": "pnpm run prepush"
-    }
-  },
   "devDependencies": {
     "@babel/core": "^7.13.16",
     "@babel/preset-env": "^7.13.15",
