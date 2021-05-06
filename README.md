@@ -1,5 +1,14 @@
 # Typescript + Node.js Template
 
+## Features
+
+- Testing in Github Actions
+- Testing Typescript code using Babel Jest
+- Code Coverage using Jest
+- Linting code using ESLint
+- Format code using Prettier
+- Automate Github hooks using Husky and Lint Staged
+
 ## Packages
 
 - Typescript
