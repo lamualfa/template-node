@@ -10,11 +10,12 @@
 - Prettier
 - Husky
 - Babel
+- Lint Staged
 
 ## Installation
 
 with NPX
 
 ```
-npx degit lamualfa/typescript-node project-name
+npx degit lamualfa/template-node project-name
 ```
