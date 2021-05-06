@@ -1,4 +1,4 @@
-import { multiply } from "../src/index"
+import { multiply } from "."
 
 describe("multiply", () => {
   it("is return correct number?", () => {
