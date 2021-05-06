@@ -19,10 +19,7 @@
     "build": "tsc"
   },
   "lint-staged": {
-    "src/**/*.ts": [
-      "pnpm run format",
-      "git add"
-    ]
+    "src/**/*.ts": "pnpm run format"
   },
   "devDependencies": {
     "@babel/core": "^7.13.16",
