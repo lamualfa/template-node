@@ -10,9 +10,9 @@
   "scripts": {
     "format:eslint": "eslint --fix",
     "format:prettier": "prettier --write src",
-    "format": "pnpm run format:eslint && pnpm run format:prettier",
+    "format": "npm run format:eslint && npm run format:prettier",
     "precommit": "lint-staged",
-    "prepush": "pnpm run test",
+    "prepush": "npm run test",
     "postinstall": "husky install",
     "postpublish": "pinst --enable",
     "prepublishOnly": "pinst --disable",
@@ -21,7 +21,7 @@
     "build": "tsc"
   },
   "lint-staged": {
-    "src/**/*.ts": "pnpm run format"
+    "src/**/*.ts": "npm run format"
   },
   "devDependencies": {
     "@swc-node/jest": "^1.3.2",
