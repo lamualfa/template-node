@@ -40,5 +40,5 @@
 with NPX
 
 ```
-npx degit lamualfa/template-node-dependencies dependencies-name
+npx degit lamualfa/template-node project-name
 ```
