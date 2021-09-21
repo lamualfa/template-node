@@ -6,9 +6,8 @@
 </p>
 
 <p align="center" style="margin-top: 30px;">
-  <img alt="PNPM" src="https://pnpm.io/hu/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" width="110" style="margin-right: 20px;">
-  <img alt="Jest" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="70">
-  <img alt="Babel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1280px-Babel_Logo.svg.png" width="160" style="margin-left: 20px;">
+  <img alt="Jest" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="70" style="margin-right: 10px;">
+  <img alt="SWC" src="https://swc.rs/img/swc.png" width="160" style="margin-left: 10px;">
 </p>
 
 <p align="center" style="margin-top: 30px;">
@@ -19,23 +18,21 @@
 ## Features
 
 - Testing in [Github Actions](https://github.com/features/actions)
-- Testing Typescript code using [Babel Jest](https://www.npmjs.com/package/babel-jest)
+- Testing Typescript code using [SWC Jest](https://github.com/Brooooooklyn/swc-node/tree/master/packages/jest)
 - Code Coverage using [Jest](https://jestjs.io/)
 - Standardized and Linting the code using [ESLint](https://eslint.org/)
 - Format code using [Prettier](https://prettier.io/)
 - Automate Github hooks using [Husky](https://github.com/typicode/husky) and [Lint Staged](https://github.com/okonet/lint-staged)
-- More efficiently module installation using [PNPM](https://pnpm.io/)
 
 ## Packages
 
 - Typescript
 - Node.js
-- PNPM
 - Jest
 - ESLint
 - Prettier
 - Husky
-- Babel
+- SWC
 - Lint Staged
 
 ## Installation
