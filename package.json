@@ -1,4 +1,5 @@
 {
+  "name": "my-deps",
   "main": "dist/index.js",
   "engines": {
     "node": ">=14"
@@ -18,7 +19,8 @@
     "prepublishOnly": "pinst --disable",
     "test": "jest --coverage",
     "test:dev": "jest -w",
-    "build": "tsc"
+    "test:build": "jest dist",
+    "build": "tsc && npm run test:build"
   },
   "lint-staged": {
     "src/**/*.ts": "npm run format"
