@@ -1,4 +1,4 @@
-# Node.js Template Dependencies
+# Node.js Template
 
 <p align="center" style="margin-top: 30px;">
   <img alt="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="100" style="margin-right: 10px;">
