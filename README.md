@@ -37,8 +37,14 @@
 
 ## Installation
 
-with NPX
+###### Using NPX (NPM)
 
 ```
 npx degit lamualfa/template-node project-name
+```
+
+###### Using PNPM
+
+```
+pnpm degit lamualfa/template-node project-name
 ```
