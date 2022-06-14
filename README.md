@@ -7,7 +7,7 @@
 
 <p align="center" style="margin-top: 30px;">
   <img alt="Jest" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="70" style="margin-right: 10px;">
-  <img alt="SWC" src="https://swc.rs/img/swc.png" width="160" style="margin-left: 10px;">
+  <img alt="SWC" src="https://swc.rs/logo.png" width="140" style="margin-left: 20px;">
 </p>
 
 <p align="center" style="margin-top: 30px;">
