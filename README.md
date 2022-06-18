@@ -49,8 +49,8 @@
 npx degit lamualfa/template-node project-name
 ```
 
-###### Using [PNPM](https://pnpm.io/id/cli/exec)
+###### Using [PNPM](https://pnpm.io/id/cli/dlx)
 
 ```
-pnpm degit lamualfa/template-node project-name
+pnpm dlx degit lamualfa/template-node project-name
 ```
